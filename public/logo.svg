@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138.617" height="68.806" viewBox="0 0 138.617 68.806">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="138.617" height="68.806" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g id="Group_71" data-name="Group 71" transform="translate(-11.732 -13.132)">
+      <text id="Geh_Weg" data-name="Geh Weg" transform="translate(22.32 74.938)" fill="#fff" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Geh Weg</tspan></text>
+      <path id="Path_52" data-name="Path 52" d="M149.84,17.069c-3.576-.729-28.478-3.528-40.954-3.927S79.812,25.557,76.81,25.488s-16.129-5.427-27.576-9.572-37.448,2.569-37.448,2.569c-1.349,4.917,23.412,3.649,31.5,5.363s19.788,7.689,21.785,10.5,6.144,6.968,10.421,7.889,18.526-4.233,20.145-5.552S91.362,33,91.362,33L98.9,27.519c7.544-5.482,20.849-5.359,29.62-5.219S153.416,17.8,149.84,17.069Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
